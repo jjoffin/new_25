@@ -1,6 +1,6 @@
 console.log("Hello There!");
 
-// this is a comment
+// this is a different comment
 
 let x = 3;
 let y = 4;
